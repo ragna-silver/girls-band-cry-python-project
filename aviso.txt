@@ -3,3 +3,7 @@ este lo saque de un proyecto de bad apple en Python
 solo lo estoy adaptando al opening
 aquí esta el link del código original
 https://github.com/CalvinLoke/bad-apple
+
+
+solo pido que difundan mi proyecto
+eso es todo
