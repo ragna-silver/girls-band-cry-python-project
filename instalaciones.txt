@@ -1,0 +1,5 @@
+pasos:
+1.tener el visual studio code
+2.en el visual studio code instalar la expansión de Python(junto con el de Microsoft store[si no tienes Windows ahí nose XD)
+3.en el símbolo de sistem(cmd) pega esto
+pip install opencv-python pillow playsound pygame fpstimer ffmpeg moviepy

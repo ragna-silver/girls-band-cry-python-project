@@ -1,0 +1,20 @@
+una vez haber hecho las instalaciones 
+debes mover la carpeta al disco local C:
+debes ejecutarlo
+te saldrá lo siguiente
+==============================================================
+Select option: 
+1) Play
+2) Exit
+==============================================================
+Your option: 
+
+en your option debes escribir 1 y luego pulsar enter
+
+luego te saldrá
+Please enter the video file name (file must be in root!): 
+
+ahí pega lo siguiente
+C:/girls-band-cry/girls_band_cry.mp4
+
+y ya
